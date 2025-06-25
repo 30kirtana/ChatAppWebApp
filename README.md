@@ -2,13 +2,15 @@
 
 # 🗨️ Real-Time ChatApp Web Application
 
-> 🚀A simple real-time messaging user interface using plain HTML, CSS, JS, and a Node-driven backend. Created by learning alongside a web dev tutorial series.
+> 🚀A simple real-time messaging user interface using plain HTML, CSS, JS, and a Node-driven backend.
+> Created by learning alongside a web dev tutorial series.
 
 ---
 
 ## 📌 Overview
 
-This is a light-weight messaging interface where users can send and receive real-time messages from a browser. The backend is implemented using Node.js and WebSocket (`socket.io`) for real-time communication between clients.
+This is a light-weight messaging interface where users can send and receive real-time messages from a browser. 
+The backend is implemented using Node.js and WebSocket (`socket.io`) for real-time communication between clients.
 The UI has been implemented using straightforward HTML and CSS — without the use of any front-end framework — in order to maintain simplicity and ease of understanding.
 ⚠️ This project was made for **personal learning** purposes following along with a developer tutorial series and is not intended for public hosting or production.
 
@@ -45,7 +47,8 @@ The UI has been implemented using straightforward HTML and CSS — without the u
 
 ## 📚 Learning Purpose
 
-This project is not an original work but a **practice reimplementation** from a popular Indian developer series. The repo is designed to **not be discoverable broadly** and primarily utilized for improving personal knowledge of WebSockets and Node.js in real-time applications.
+This project is not an original work but a **practice reimplementation** from a popular Indian developer series.
+The repo is designed to **not be discoverable broadly** and primarily utilized for improving personal knowledge of WebSockets and Node.js in real-time applications.
 
 ---
 
