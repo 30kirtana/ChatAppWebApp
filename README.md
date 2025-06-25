@@ -1,4 +1,5 @@
 ---
+### This Code Along is for Personal Use. 
 
 # 🗨️ Real-Time ChatApp Web Application
 
